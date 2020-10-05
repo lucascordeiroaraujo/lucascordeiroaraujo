@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Front-End Engineer, 8 years of experience.
+Vue.JS, React.JS, Typescript, WordPress
+Graduated in Systems Analysis and Development and Technician in Informatics and Computer Electronics.
+
+https://www.linkedin.com/in/lucascordeiroaraujo/
