@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Front-End Engineer, 8 years of experience.
-Vue.JS, React.JS, Typescript, WordPress
-Graduated in Systems Analysis and Development and Technician in Informatics and Computer Electronics.
+Front-End Engineer, 8 years of experience.<br/>
+Vue.JS, React.JS, Typescript, WordPress<br/>
+Graduated in Systems Analysis and Development and Technician in Informatics and Computer Electronics.<br/>
 
 https://www.linkedin.com/in/lucascordeiroaraujo/
