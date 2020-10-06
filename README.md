@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Front-End Engineer, 8 years of experience.<br/>
+I've been working as Front-End Developer since 2012 and currently I'm Front-end Engineer at Octadesk :octopus:<br/>
 Vue.JS, React.JS, Typescript, WordPress<br/>
 Graduated in Systems Analysis and Development and Technician in Informatics and Computer Electronics.<br/>
 
-https://www.linkedin.com/in/lucascordeiroaraujo/
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascordeiroaraujo)](https://www.linkedin.com/in/lucascordeiroaraujo)
