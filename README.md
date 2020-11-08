@@ -19,7 +19,7 @@ I've been working as Front-End Developer since 2012 and currently I'm Front-end 
 Vue.JS, React.JS, Typescript, WordPress<br/>
 Graduated in Systems Analysis and Development and Technician in Informatics and Computer Electronics.<br/>
 
-Currently studying: *Next.js, Node e Cypress*<br/>
-I am interested in: *GO, React Native e GraphQL*<br/>
+Currently studying: *Next.js, Node and Cypress*<br/>
+I am interested in: *GO, React Native and GraphQL*<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascordeiroaraujo)](https://www.linkedin.com/in/lucascordeiroaraujo)
